@@ -1,4 +1,4 @@
-### Heramb
+#### Heramb
 
 _20. Engineering student. Indie hacker. Shipping products people actually use._
 
@@ -12,5 +12,5 @@ Based in Pune.
 
 **Live projects:** [Archyve](https://archyve.xyz) • [MeTTaPay](https://dub.sh/mettapay)
 
-**Reach me:** salunkheheramb@gmail.com • [heramb.icu](https://heramb.icu)
+**Reach me:** [X](https://twitter.com/intent/follow?screen_name=hebuildapps) • [LinkedIn](https://www.linkedin.com/in/heramb-salunkhe/) • [heramb.icu](https://heramb.icu) 
 
